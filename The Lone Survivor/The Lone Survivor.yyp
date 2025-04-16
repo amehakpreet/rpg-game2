@@ -55,6 +55,7 @@
     {"id":{"name":"spr_fish","path":"sprites/spr_fish/spr_fish.yy",},},
     {"id":{"name":"spr_grass_water","path":"sprites/spr_grass_water/spr_grass_water.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
+    {"id":{"name":"spr_hit","path":"sprites/spr_hit/spr_hit.yy",},},
     {"id":{"name":"spr_seaweed","path":"sprites/spr_seaweed/spr_seaweed.yy",},},
     {"id":{"name":"spr_stick","path":"sprites/spr_stick/spr_stick.yy",},},
     {"id":{"name":"spr_water","path":"sprites/spr_water/spr_water.yy",},},

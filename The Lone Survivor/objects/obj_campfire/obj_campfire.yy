@@ -1,9 +1,7 @@
 {
   "$GMObject":"",
   "%Name":"obj_campfire",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_stick","path":"objects/obj_stick/obj_stick.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_campfire",
   "overriddenProperties":[],
