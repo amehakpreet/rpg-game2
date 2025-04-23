@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object6",
+  "%Name":"obj_prev_room",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_character","path":"objects/obj_character/obj_character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object6",
+  "name":"obj_prev_room",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
