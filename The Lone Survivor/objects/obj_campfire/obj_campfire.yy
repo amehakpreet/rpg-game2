@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_campfire",
-    "path":"sprites/spr_campfire/spr_campfire.yy",
+    "name":"spr_campfire_burning",
+    "path":"sprites/spr_campfire_burning/spr_campfire_burning.yy",
   },
   "spriteMaskId":null,
   "visible":true,
