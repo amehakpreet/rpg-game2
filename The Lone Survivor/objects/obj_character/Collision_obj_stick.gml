@@ -20,11 +20,11 @@ if(stick_count == 0){	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 29D8C002
 	/// @DnDParent : 12052F33
-	/// @DnDArgument : "xpos" "310"
-	/// @DnDArgument : "ypos" "568"
+	/// @DnDArgument : "xpos" "307"
+	/// @DnDArgument : "ypos" "595"
 	/// @DnDArgument : "objectid" "obj_campfire"
 	/// @DnDSaveInfo : "objectid" "obj_campfire"
-	instance_create_layer(310, 568, "Instances", obj_campfire);}
+	instance_create_layer(307, 595, "Instances", obj_campfire);}
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1

@@ -27,7 +27,9 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"._FreePack.png","CopyToMask":-1,"filePath":"datafiles/FreePack.png/__MACOSX","name":"._FreePack.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"FreePack.png","CopyToMask":-1,"filePath":"datafiles/FreePack.png","name":"FreePack.png","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"Thumbs.db","CopyToMask":-1,"filePath":"datafiles/FreePack.png","name":"Thumbs.db","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],

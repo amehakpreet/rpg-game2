@@ -3,14 +3,14 @@
 /// @DnDHash : 189E871E
 /// @DnDArgument : "x1" "20"
 /// @DnDArgument : "y1" "10"
-/// @DnDArgument : "x2" "300"
+/// @DnDArgument : "x2" "500"
 /// @DnDArgument : "y2" "45"
 /// @DnDArgument : "col1" "$FFFFC4A0"
 /// @DnDArgument : "col2" "$FFFFC4A0"
 /// @DnDArgument : "col3" "$FFFFC4A0"
 /// @DnDArgument : "col4" "$FFFFC4A0"
 /// @DnDArgument : "fill" "1"
-draw_rectangle_colour(20, 10, 300, 45, $FFFFC4A0 & $FFFFFF, $FFFFC4A0 & $FFFFFF, $FFFFC4A0 & $FFFFFF, $FFFFC4A0 & $FFFFFF, 0);
+draw_rectangle_colour(20, 10, 500, 45, $FFFFC4A0 & $FFFFFF, $FFFFC4A0 & $FFFFFF, $FFFFC4A0 & $FFFFFF, $FFFFC4A0 & $FFFFFF, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
