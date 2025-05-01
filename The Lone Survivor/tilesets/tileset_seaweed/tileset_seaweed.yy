@@ -17,10 +17,7 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"spr_seaweed",
-    "path":"sprites/spr_seaweed/spr_seaweed.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",

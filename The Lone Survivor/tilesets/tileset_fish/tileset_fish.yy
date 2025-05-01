@@ -17,10 +17,7 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"spr_fish",
-    "path":"sprites/spr_fish/spr_fish.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
