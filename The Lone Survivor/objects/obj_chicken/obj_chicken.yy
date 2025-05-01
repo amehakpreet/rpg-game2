@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_character","path":"objects/obj_character/obj_character.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_chicken",
+  "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_chicken",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Sprite17",
-    "path":"sprites/Sprite17/Sprite17.yy",
+    "name":"spr_chicken",
+    "path":"sprites/spr_chicken/spr_chicken.yy",
   },
   "spriteMaskId":null,
   "visible":true,
