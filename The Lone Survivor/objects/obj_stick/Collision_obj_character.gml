@@ -18,11 +18,11 @@ effect_create_above(6, x + 0, y + 0, 0, $FF2DFFDC & $ffffff);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 0DBC97E1
-/// @DnDArgument : "x" "40"
+/// @DnDArgument : "x" "50"
 /// @DnDArgument : "y" "30"
 /// @DnDArgument : "caption" ""Collect all stick: ""
 /// @DnDArgument : "var" "global.score"
-draw_text(40, 30, string("Collect all stick: ") + string(global.score));
+draw_text(50, 30, string("Collect all stick: ") + string(global.score));
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1
